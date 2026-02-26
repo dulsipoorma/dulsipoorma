@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Dulsi! 👋
 
 ### 🚀 Aspiring Data Engineer | Tech Enthusiast | Undergraduate
