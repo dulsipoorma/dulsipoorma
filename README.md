@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**dulsipoorma/dulsipoorma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dulsi! 👋
 
-Here are some ideas to get you started:
+### 🚀 Aspiring Data Engineer | Tech Enthusiast | Undergraduate
+Welcome to my GitHub! I am a passionate learner currently focused on building a solid foundation in Data Engineering. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning: **Python for Data Science, Advanced SQL, and DSA.**
+- 🌱 Goal: To build efficient data pipelines and solve complex logical problems.
+- 🎓 I'm an Undergraduate student balancing semester work and career growth.
+- ⛰️ Fun fact: I love dancing and exploring nature.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Databases:** PostgreSQL (Learning)
+- **Tools:** VS Code, Git/GitHub
+
+---
